@@ -1,4 +1,4 @@
-LoHi, I'm Leonardo Scotti 
+Hi, I'm Leonardo Scotti 
 I'm open to any collab and request or ideas. 
 
 Skills and ability:
