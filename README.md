@@ -1,4 +1,4 @@
-Hi, I'm Leonardo Scotti 
+LoHi, I'm Leonardo Scotti 
 I'm open to any collab and request or ideas. 
 
 Skills and ability:
@@ -14,10 +14,7 @@ Skills and ability:
 
 
 
-
-
-
-
+Preferences:
 
 - Favourite Editor: VSCODE
 - Favourite OS: Windows / Linux
