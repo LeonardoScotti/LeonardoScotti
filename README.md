@@ -12,6 +12,13 @@ Skills and ability:
 - Arduino
 - Raspberry Pi
 
+
+
+
+
+
+
+
 - Favourite Editor: VSCODE
 - Favourite OS: Windows / Linux
 - Favourite DevBoard: Raspberry Pi 4 8gb
