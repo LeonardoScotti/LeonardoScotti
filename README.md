@@ -12,17 +12,14 @@ Skills and ability:
 - Arduino
 - Raspberry Pi
 
-Favourite Editor: VSCODE
-Favourite OS: Windows / Linux
-Favourite DevBoard: Raspberry Pi 4 8gb
+- Favourite Editor: VSCODE
+- Favourite OS: Windows / Linux
+- Favourite DevBoard: Raspberry Pi 4 8gb
 
 EXCELLENT ENGLISH COMUNICATIVE SKILLS (B2) 
 
 To contact me:
 
-Scotti.leonardo25@gmail.com
+scotti.leonardo25@gmail.com
 
-<!---
-LeonardoScotti/LeonardoScotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
