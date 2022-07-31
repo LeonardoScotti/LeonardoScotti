@@ -21,7 +21,7 @@ I'm open to any collab and request or ideas.
 - Favourite DevBoard: Raspberry Pi 4 8gb
 
 
-EXCELLENT ENGLISH COMUNICATIVE SKILLS (B2) 
+_EXCELLENT ENGLISH COMUNICATIVE SKILLS (B2)_
 
 To contact me:
 
