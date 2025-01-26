@@ -3,11 +3,11 @@
 
 - 📝 I've just wrote this article: [VTOL: history, evolution and perspectives](https://www.aesatorino.org/aeroaesa-vtol-la-rivoluzione-del-volo-senza-piste-storia-evoluzione-e-prospettive/)
 
-- 🌱 I’m currently learning **Matlab, solidworks**
+- 🌱 I’m currently learning **Matlab, Solidworks**
 
-- 📝 I regularly write articles on [aesatorino.org](aesatorino.org)
+- 📝 I write articles on [aesatorino.org](aesatorino.org)
 
-- 💬 Ask me about **python and calculus**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **scotti.leonardo25@gmail.com**
 
