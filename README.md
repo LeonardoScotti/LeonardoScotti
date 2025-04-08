@@ -1,24 +1,10 @@
-<h1 align="center">Hi 👋, I'm Leonardo Scotti</h1>
+<h1 align="center">Leonardo Scotti</h1>
 <h3 align="center">Aerospace Engineering student at Politecnico di Torino, AESA Torino member!</h3>
 
-- 📝 I've just wrote this article: [VTOL: history, evolution and perspectives](https://www.aesatorino.org/aeroaesa-vtol-la-rivoluzione-del-volo-senza-piste-storia-evoluzione-e-prospettive/)
+<p align="center">scotti.leonardo25@gmail.com</p>
 
-- 🌱 I’m currently learning **Matlab, Solidworks**
 
-- 📝 I write articles on [aesatorino.org](aesatorino.org)
-
-- 💬 Ask me about **python**
-
-- 📫 How to reach me **scotti.leonardo25@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/14659949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14659949" height="30" width="40" /></a>
-<a href="https://instagram.com/leo.scotti_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leo.scotti_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
